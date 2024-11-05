@@ -1,7 +1,5 @@
 ## Welcome to Kotlin Last Crusade – A Shared Guide for Learning Architecture and Coding in Kotlin!
 
----
-
 ## Projects
 
 Explore a collection of projects that showcase various architectural patterns and coding practices in Kotlin. Each link below provides in-depth details on implementation and best practices to enhance your development skills.
