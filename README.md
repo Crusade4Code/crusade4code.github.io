@@ -1,20 +1,33 @@
-## Welcome to Kotlin Last Crusade – A Shared Guide for Learning Architecture and Coding in Kotlin!
+# Crusade4Code
 
-## Projects
+Welcome to **Crusade4Code**! This repository is a collection of educational projects in Kotlin, designed to showcase various architectural patterns and best practices. Each project demonstrates unique approaches and tools for building scalable and maintainable applications in Kotlin.
 
-Explore a collection of projects that showcase various architectural patterns and coding practices in Kotlin. Each link below provides in-depth details on implementation and best practices to enhance your development skills.
+## About
 
-### 1. [KotlinLastCrusade1](https://github.com/Crusade4Code/kotlinlastcrusade1-xml-koin-mapper-usecase)
-- **Description**: This project uses Github API to get information from Users and Repos in a user-details screen. The proposal is to use Clean Architecture concepts inside Repositories, through Repository Interfaces, Mappers and UseCases. Also to use Koin as Dependency Injection. Unit Tests. And some important concepts to a better use of Dispatchers according to  which teaches about change the Dispatchers inside repositories, since it does the true work. (i).
-- **Technologies:**
-  - **Retrofit**, **Koin**, **Unit Tests**, **Navigation**, **XML**
-  - **Clean Architecture**
-    - **Repository/RepositoryImpl**
-    - **Mapper**
-    - **Use-case**
+**Crusade4Code** was created to help us developers:
+- Explore different architectural patterns in Kotlin
+- Understand best practices for dependency injection, networking, UI layers, and more
+- Gain practical insights through well-documented example projects
 
-(i) "This pattern makes your app more scalable, as classes calling suspend functions don't have to worry about what Dispatcher to use for what type of work. This responsibility lies in the class that does the work." (https://developer.android.com/kotlin/coroutines/coroutines-best-practices)
+## Project Index
 
-## How to Use
+Here’s a quick overview of the projects available:
 
-Explore the repositories above to compare different architectural approaches. Each project includes detailed setup and usage instructions.
+1. **[KotlinLastCrusade1-xml-retrofit-koin-cleanarch-interface-mapper-usecase](https://github.com/Crusade4Code/kotlinlastcrusade1-xml-koin-mapper-usecase)**
+2. Next one soon.
+
+Each project link above provides a basic overview, and you can visit the **Wiki** for detailed documentation.
+
+## Documentation
+
+For complete details, including setup instructions, code explanations, and architecture insights, visit our [Wiki](https://github.com/Crusade4Code/crusade4code/wiki).
+
+## Contributions
+
+Contributions are welcome! If you’d like to improve existing projects or add new examples, feel free to open a pull request or reach out via the [Issues](https://github.com/Crusade4Code/crusade4code/issues) tab.
+
+---
+
+### Useful Links
+- [Kotlin Documentation](https://kotlinlang.org/docs/home.html)
+- [Official Android Architecture Guide](https://developer.android.com/jetpack/guide)
