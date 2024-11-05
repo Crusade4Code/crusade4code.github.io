@@ -1,5 +1,3 @@
-## Kotlin Last Crusade
-
 ## Welcome to Kotlin Last Crusade – A Shared Guide for Learning Architecture and Coding in Kotlin!
 
 ---
