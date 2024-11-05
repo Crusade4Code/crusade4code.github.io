@@ -13,8 +13,10 @@ Welcome to **Crusade4Code**! This repository is a collection of educational proj
 
 Here’s a quick overview of the projects available:
 
-1. **[KotlinLastCrusade1-xml-retrofit-koin-livedata-cleanarch-interface-mapper-usecase](https://github.com/Crusade4Code/kotlinlastcrusade1-xml-koin-livedata-mapper-usecase)**
-2. Next one soon.
+**1**. [KotlinLastCrusade1](https://github.com/Crusade4Code/kotlinlastcrusade1-xml-koin-livedata-mapper-usecase)
+ - **Retrofit, Koin, LiveData, Unit Tests, Navigation, XML, Clean Architecture (Repository/RepositoryImpl, Mapper, Use-case)** 
+
+**2**. Next one soon.
 
 Each project link above provides a basic overview, and you can visit the **Wiki** for detailed documentation.
 
