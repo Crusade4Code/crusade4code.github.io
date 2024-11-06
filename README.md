@@ -16,7 +16,7 @@ Here’s a quick overview of the projects available:
 **1. KotlinLastCrusade1** 
  - **Retrofit, Koin, LiveData, Unit Tests, Navigation, XML, Clean Architecture (Repository/RepositoryImpl, Mapper, Use-case)** 
  - [Github Repo](https://github.com/Crusade4Code/kotlinlastcrusade1-xml-koin-livedata-mapper-usecase) 
- - [Project Wiki](https://github.com/Crusade4Code/crusade4code.github.io/wiki/Kotlin-Projects#kotlinlastcrusade1)
+ - [Project Wiki](https://github.com/Crusade4Code/crusade4code.github.io/wiki/KotlinLastCrusade1)
 
 **2**. Next one soon.
 
