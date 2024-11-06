@@ -35,3 +35,8 @@ Contributions are welcome! If you’d like to improve existing projects or add n
 ### Useful Links
 - [Kotlin Documentation](https://kotlinlang.org/docs/home.html)
 - [Official Android Architecture Guide](https://developer.android.com/jetpack/guide)
+
+---
+
+## License
+This project is licensed under the *The Unlicense* - see the LICENSE file for details.
