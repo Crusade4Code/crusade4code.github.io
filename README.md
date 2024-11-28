@@ -35,7 +35,7 @@ For complete details, including setup instructions, code explanations, and archi
 
 ## Contributions
 
-Contributions are welcome! If you’d like to improve existing projects or add new examples, feel free to open a pull request or reach out via the [Issues](https://github.com/Crusade4Code/crusade4code/issues) tab.
+Contributions are welcome! If you’d like to improve existing projects or add new examples, feel free to open a pull request or reach out via the [Issues](https://github.com/Crusade4Code/crusade4code.github.io/issues) tab.
 
 ---
 
