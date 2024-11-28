@@ -22,7 +22,7 @@ Here’s a quick overview of the projects available:
    - _**flow**_
      - **Flow**
        - [Github Repo](https://github.com/Crusade4Code/kotlinlastcrusade1-xml-koin-mapper-usecase/tree/flow)
- - [Project Wiki](https://github.com/Crusade4Code/crusade4code.github.io/wiki/KotlinLastCrusade1)
+ - [Project Wiki](https://github.com/Crusade4Code/crusade4code.github.io/wiki#1-kotlinlastcrusade1)
 
 **2. Jetpack Compose with Clean Architecture**
   - **Soon.**
